@@ -30,6 +30,3 @@ Given spoken audio responses, predict a grammar score reflecting grammatical cor
 ## 🚀 How to Run
 This project is designed to run on Kaggle due to dataset availability.
 
-## 📌 Author
-**Snigdha Singh**  
-Kaggle: https://www.kaggle.com/snigdhasingh77
